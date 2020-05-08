@@ -1,0 +1,26 @@
+.main-page {
+  overflow: hidden;
+  width: 100%;
+}
+
+.background-image {
+  position: absolute;
+  margin-left: -80px;
+  width: 1425px;
+}
+
+footer {
+  position: relative;
+  top: -270px;
+}
+
+footer p {
+  position: relative;
+  top: 720px;
+  left: 70px;
+}
+
+footer img {
+  margin-left: -80px;
+  width: 1425px;
+}
