@@ -30,7 +30,7 @@ export default function Header() {
             <Link to="/landing-page">
               <img
                 alt="log in"
-                src="https://img.icons8.com/small/16/000000/enter-2.png"
+                src="https://img.icons8.com/small/32/000000/enter-2.png"
               />
             </Link>
             <a className="hide" href="https://icons8.com/icon/52625/enter">

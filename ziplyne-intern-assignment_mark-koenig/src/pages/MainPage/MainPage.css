@@ -1,26 +1,33 @@
-.main-page {
-  overflow: hidden;
-  width: 100%;
+body {
+  background: url("/images/ZL-Sample\ Desk.png") -77px 0px no-repeat;
+  background-size: 1425px;
 }
 
-.background-image {
-  position: absolute;
-  margin-left: -80px;
-  width: 1425px;
+.main-page {
+  height: 800px;
+  overflow: hidden;
+  width: 1285px;
 }
 
 footer {
-  position: relative;
-  top: -270px;
+  margin-top: 370px;
 }
 
 footer p {
-  position: relative;
-  top: 720px;
-  left: 70px;
+  position: absolute;
+  top: 573px;
+  left: 72px;
+  width: 600px;
+}
+
+p {
+  color: rgb(var(--white));
+  font-size: 3rem;
+  line-height: 1.1;
 }
 
 footer img {
-  margin-left: -80px;
-  width: 1425px;
+  margin-left: -4px;
+  margin-top: 9px;
+  width: 1295px;
 }

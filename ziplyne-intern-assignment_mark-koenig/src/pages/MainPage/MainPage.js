@@ -6,11 +6,6 @@ import "./MainPage.css";
 export default function MainPage() {
   return (
     <div className="main-page">
-      <img
-        className="background-image"
-        src="../../images/ZL-Sample Desk.png"
-        alt=""
-      />
       <Header />
       <footer>
         <p>Lorem Ipsum Dolor Lorem Ipsum Dolor Amet.</p>

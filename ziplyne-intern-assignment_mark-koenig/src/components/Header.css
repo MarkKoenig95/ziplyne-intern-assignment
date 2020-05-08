@@ -60,7 +60,9 @@ a {
 }
 
 .action-buttons img {
-  margin-bottom: -2.5px;
+  filter: contrast(20%);
+  height: 23px;
+  margin-bottom: -7px;
 }
 
 .gradient {

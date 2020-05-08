@@ -11,13 +11,11 @@
 }
 
 html {
-  overflow: hidden;
-  width: 1285px;
+  overflow: scroll;
 }
 
 body {
-  background-image: linear-gradient(to right, #a183e1, #7246ce);
-  font-family: "HKGroteskRegular", sans-serif;
+  font-family: "HKGroteskSemiBold", sans-serif;
   letter-spacing: 0.1rem;
   margin: 0;
   -webkit-font-smoothing: antialiased;
