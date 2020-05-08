@@ -1,0 +1,32 @@
+.text-link {
+  background-color: transparent;
+  border: none;
+  color: rgb(var(--purple-text));
+  font-weight: bold;
+  font-size: 1rem;
+  letter-spacing: 0.1rem;
+  padding: 0px 0px 3px 3px;
+  margin-right: -5px;
+}
+
+.text-link:hover {
+  background-image: linear-gradient(
+    to right,
+    currentColor 100%,
+    transparent 0%
+  );
+  background-position: -0.5rem 1.25rem;
+  background-repeat: no-repeat;
+  background-size: 100% 2px;
+}
+
+a {
+  color: rgb(var(--purple-0));
+  text-decoration: none;
+}
+
+p {
+  color: rgb(var(--white));
+  font-size: 2.5rem;
+  font-weight: bold;
+}

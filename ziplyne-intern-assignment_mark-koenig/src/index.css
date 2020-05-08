@@ -1,0 +1,29 @@
+:root {
+  --purple-text: 38, 42, 148;
+  --white: 255, 255, 255;
+  --purple-6: 86, 9, 251;
+  --purple-5: 111, 57, 225;
+  --purple-4: 114, 70, 206;
+  --purple-3: 154, 96, 242;
+  --purple-2: 161, 131, 225;
+  --purple-1: 182, 139, 247;
+  --purple-0: 182, 139, 247;
+}
+
+html {
+  overflow: hidden;
+  width: 1285px;
+}
+
+body {
+  background-image: linear-gradient(to right, #a183e1, #7246ce);
+  font-family: "HKGroteskRegular", sans-serif;
+  letter-spacing: 0.1rem;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.hide {
+  display: none;
+}
