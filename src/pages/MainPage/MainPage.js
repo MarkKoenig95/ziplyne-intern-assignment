@@ -9,7 +9,7 @@ export default function MainPage() {
       <Header />
       <footer>
         <p>Lorem Ipsum Dolor Lorem Ipsum Dolor Amet.</p>
-        <img src="../../images/BottomMask.png" alt="" />
+        <img src="./images/BottomMask.png" alt="" />
       </footer>
     </div>
   );
