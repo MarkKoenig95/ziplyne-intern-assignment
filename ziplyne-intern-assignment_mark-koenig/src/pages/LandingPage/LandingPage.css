@@ -1,0 +1,74 @@
+body {
+  background-color: black;
+}
+
+.landing-page {
+  position: absolute;
+  height: 800px;
+  overflow: hidden;
+  width: 1285px;
+}
+
+.landing-page h1 {
+  color: rgb(var(--purple-text));
+  font-size: 3.04rem;
+  line-height: 3.4rem;
+  margin-left: 59px;
+  margin-top: 88px;
+  width: 604px;
+}
+
+.landing-page p {
+  color: white;
+  font-size: 1.5rem;
+}
+
+.paragraphs {
+  float: right;
+  margin-top: 100px;
+  padding-right: 36px;
+  width: 378px;
+}
+
+.p1 {
+  letter-spacing: 0.07rem;
+}
+
+.p2 {
+  margin-top: 34px;
+  letter-spacing: 0.1rem;
+}
+
+.diamond-img {
+  position: absolute;
+  height: 671px;
+  top: 155px;
+  left: 753px;
+  z-index: -1;
+}
+
+.computer-img {
+  height: 589px;
+  position: absolute;
+  right: 383px;
+  top: 198px;
+}
+
+.shadowed {
+  -webkit-filter: drop-shadow(0px 12px 15px rgba(0, 0, 0, 0.25));
+  filter: drop-shadow(0px 12px 15px rgba(0, 0, 0, 0.25));
+}
+
+.landing-page footer {
+  background-image: linear-gradient(
+    90deg,
+    rgba(var(--white, 0), 0.5) 1%,
+    rgba(var(--purple-0)),
+    rgba(var(--purple-5), 0.7) 65%
+  );
+  height: 126px;
+  position: absolute;
+  width: 1285px;
+  top: 307px;
+  z-index: -2;
+}
