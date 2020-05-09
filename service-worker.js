@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ziplyne-intern-assignment/precache-manifest.06ff3c5f078dbb199beb7dd83d542e5f.js"
+  "/ziplyne-intern-assignment/precache-manifest.d1c5c8b41ead2e643d72e185aa4bb518.js"
 );
 
 self.addEventListener('message', (event) => {
