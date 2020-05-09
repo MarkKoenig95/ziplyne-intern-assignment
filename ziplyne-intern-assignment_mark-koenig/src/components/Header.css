@@ -29,9 +29,9 @@ header {
 }
 
 .logo img {
-  height: 39px;
-  margin-left: 32px;
-  margin-top: -4px;
+  height: 38px;
+  margin-left: 31px;
+  margin-top: -5px;
 }
 
 nav {
@@ -42,7 +42,8 @@ nav {
 }
 
 .nav-links {
-  margin: auto;
+  margin-top: 9px;
+  margin-left: 192px;
 }
 
 a {
@@ -62,7 +63,13 @@ a {
 .action-buttons img {
   filter: contrast(20%);
   height: 23px;
-  margin-bottom: -7px;
+  margin-left: 5px;
+  margin-bottom: -9px;
+}
+
+.action-buttons button {
+  margin-top: 3px;
+  margin-left: -54px;
 }
 
 .gradient {

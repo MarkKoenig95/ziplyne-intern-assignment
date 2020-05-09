@@ -1,9 +1,6 @@
-body {
+.main-page {
   background: url("/images/ZL-Sample\ Desk.png") -77px 0px no-repeat;
   background-size: 1425px;
-}
-
-.main-page {
   height: 800px;
   overflow: hidden;
   width: 1285px;
@@ -13,17 +10,15 @@ footer {
   margin-top: 370px;
 }
 
-footer p {
+.main-page p {
+  color: white;
+  font-size: 3rem;
+  line-height: 1.1;
+  letter-spacing: 0.13rem;
   position: absolute;
   top: 573px;
   left: 72px;
-  width: 600px;
-}
-
-p {
-  color: rgb(var(--white));
-  font-size: 3rem;
-  line-height: 1.1;
+  width: 615px;
 }
 
 footer img {
