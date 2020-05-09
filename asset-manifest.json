@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ziplyne-intern-assignment/static/css/main.9c4ee03d.chunk.css",
-    "main.js": "/ziplyne-intern-assignment/static/js/main.92cc3d86.chunk.js",
-    "main.js.map": "/ziplyne-intern-assignment/static/js/main.92cc3d86.chunk.js.map",
-    "runtime-main.js": "/ziplyne-intern-assignment/static/js/runtime-main.93d4be20.js",
-    "runtime-main.js.map": "/ziplyne-intern-assignment/static/js/runtime-main.93d4be20.js.map",
-    "static/js/2.2fee9bb7.chunk.js": "/ziplyne-intern-assignment/static/js/2.2fee9bb7.chunk.js",
-    "static/js/2.2fee9bb7.chunk.js.map": "/ziplyne-intern-assignment/static/js/2.2fee9bb7.chunk.js.map",
+    "main.css": "/ziplyne-intern-assignment/static/css/main.32242fa0.chunk.css",
+    "main.js": "/ziplyne-intern-assignment/static/js/main.82c3894a.chunk.js",
+    "main.js.map": "/ziplyne-intern-assignment/static/js/main.82c3894a.chunk.js.map",
+    "runtime-main.js": "/ziplyne-intern-assignment/static/js/runtime-main.83988a72.js",
+    "runtime-main.js.map": "/ziplyne-intern-assignment/static/js/runtime-main.83988a72.js.map",
+    "static/js/2.e95ce799.chunk.js": "/ziplyne-intern-assignment/static/js/2.e95ce799.chunk.js",
+    "static/js/2.e95ce799.chunk.js.map": "/ziplyne-intern-assignment/static/js/2.e95ce799.chunk.js.map",
     "index.html": "/ziplyne-intern-assignment/index.html",
-    "precache-manifest.3ceaa60f173b270adda779f460bd71d4.js": "/ziplyne-intern-assignment/precache-manifest.3ceaa60f173b270adda779f460bd71d4.js",
+    "precache-manifest.f4aeabb9bd838198b05a859c1ee26193.js": "/ziplyne-intern-assignment/precache-manifest.f4aeabb9bd838198b05a859c1ee26193.js",
     "service-worker.js": "/ziplyne-intern-assignment/service-worker.js",
-    "static/css/main.9c4ee03d.chunk.css.map": "/ziplyne-intern-assignment/static/css/main.9c4ee03d.chunk.css.map",
-    "static/js/2.2fee9bb7.chunk.js.LICENSE.txt": "/ziplyne-intern-assignment/static/js/2.2fee9bb7.chunk.js.LICENSE.txt"
+    "static/css/main.32242fa0.chunk.css.map": "/ziplyne-intern-assignment/static/css/main.32242fa0.chunk.css.map",
+    "static/js/2.e95ce799.chunk.js.LICENSE.txt": "/ziplyne-intern-assignment/static/js/2.e95ce799.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.93d4be20.js",
-    "static/js/2.2fee9bb7.chunk.js",
-    "static/css/main.9c4ee03d.chunk.css",
-    "static/js/main.92cc3d86.chunk.js"
+    "static/js/runtime-main.83988a72.js",
+    "static/js/2.e95ce799.chunk.js",
+    "static/css/main.32242fa0.chunk.css",
+    "static/js/main.82c3894a.chunk.js"
   ]
 }
