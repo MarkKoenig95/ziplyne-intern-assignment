@@ -32,6 +32,14 @@ header {
   height: 38px;
   margin-left: 31px;
   margin-top: -5px;
+  transition: all 0.2s;
+}
+
+.logo img:hover {
+  height: 49px;
+  margin-left: 21px;
+  margin-right: -30px;
+  margin-top: -9px;
 }
 
 nav {
@@ -65,11 +73,23 @@ a {
   height: 23px;
   margin-left: 5px;
   margin-bottom: -9px;
+  transition: all 0.2s;
+}
+
+.action-buttons img:hover {
+  height: 30px;
+  margin-left: 2.5px;
+  margin-bottom: -12.5px;
 }
 
 .action-buttons button {
   margin-top: 3px;
   margin-left: -54px;
+}
+
+.action-buttons button:hover {
+  margin-left: -70px;
+  margin-right: -8px;
 }
 
 .gradient {
