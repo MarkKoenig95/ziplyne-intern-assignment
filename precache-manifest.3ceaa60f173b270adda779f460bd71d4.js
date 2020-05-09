@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3715b1b4747a8156fa740084b9a50aa4",
+    "revision": "7bfcb0b24af8ce08e3d8fbec00005a41",
     "url": "/ziplyne-intern-assignment/index.html"
   },
   {
-    "revision": "5fa2cbd2aa1e803b4cee",
-    "url": "/ziplyne-intern-assignment/static/css/main.18b60943.chunk.css"
+    "revision": "75c7c36f4ea9ce053963",
+    "url": "/ziplyne-intern-assignment/static/css/main.9c4ee03d.chunk.css"
   },
   {
     "revision": "47cbdc56cd0ab04cf5f7",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ziplyne-intern-assignment/static/js/2.2fee9bb7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5fa2cbd2aa1e803b4cee",
+    "revision": "75c7c36f4ea9ce053963",
     "url": "/ziplyne-intern-assignment/static/js/main.92cc3d86.chunk.js"
   },
   {

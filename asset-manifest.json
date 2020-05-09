@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ziplyne-intern-assignment/static/css/main.18b60943.chunk.css",
+    "main.css": "/ziplyne-intern-assignment/static/css/main.9c4ee03d.chunk.css",
     "main.js": "/ziplyne-intern-assignment/static/js/main.92cc3d86.chunk.js",
     "main.js.map": "/ziplyne-intern-assignment/static/js/main.92cc3d86.chunk.js.map",
     "runtime-main.js": "/ziplyne-intern-assignment/static/js/runtime-main.93d4be20.js",
@@ -8,15 +8,15 @@
     "static/js/2.2fee9bb7.chunk.js": "/ziplyne-intern-assignment/static/js/2.2fee9bb7.chunk.js",
     "static/js/2.2fee9bb7.chunk.js.map": "/ziplyne-intern-assignment/static/js/2.2fee9bb7.chunk.js.map",
     "index.html": "/ziplyne-intern-assignment/index.html",
-    "precache-manifest.d1c5c8b41ead2e643d72e185aa4bb518.js": "/ziplyne-intern-assignment/precache-manifest.d1c5c8b41ead2e643d72e185aa4bb518.js",
+    "precache-manifest.3ceaa60f173b270adda779f460bd71d4.js": "/ziplyne-intern-assignment/precache-manifest.3ceaa60f173b270adda779f460bd71d4.js",
     "service-worker.js": "/ziplyne-intern-assignment/service-worker.js",
-    "static/css/main.18b60943.chunk.css.map": "/ziplyne-intern-assignment/static/css/main.18b60943.chunk.css.map",
+    "static/css/main.9c4ee03d.chunk.css.map": "/ziplyne-intern-assignment/static/css/main.9c4ee03d.chunk.css.map",
     "static/js/2.2fee9bb7.chunk.js.LICENSE.txt": "/ziplyne-intern-assignment/static/js/2.2fee9bb7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.93d4be20.js",
     "static/js/2.2fee9bb7.chunk.js",
-    "static/css/main.18b60943.chunk.css",
+    "static/css/main.9c4ee03d.chunk.css",
     "static/js/main.92cc3d86.chunk.js"
   ]
 }
